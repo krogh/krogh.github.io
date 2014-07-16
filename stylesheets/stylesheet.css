@@ -250,6 +250,20 @@ form {
   padding: 20px;
 }
 
+address {
+  color: grey;
+}
+
+address ul {
+   height: auto;
+   padding: 8px 0px;
+   margin: 0px;
+}
+
+address ul li {
+  display: inline;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
