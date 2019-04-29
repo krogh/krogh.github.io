@@ -1,8 +1,8 @@
 ### Expertise
 
-Im a freelance software developer based in Copenhagen. My expertise includes Javascript, Ruby, Rails, iPhone and J2E development.</p>
+Im a freelance software developer based in Copenhagen. My expertise includes Javascript, Ruby, Rails, iPhone and J2E development.
 
-Previous clients include Danske Bank, Nokia, Berntsen, BEC, TopDanmark</p>
+Previous clients include Danske Bank, Nokia, Berntsen, BEC, TopDanmark
 
 Philosophy
 
