@@ -1,0 +1,8 @@
+title: Krogh.github.io
+description: My page
+google_analytics: UA-45498762-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
